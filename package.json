@@ -30,7 +30,8 @@
     "eslint": "^1.6.0",
     "node-resque": "^1.1.1",
     "redis": "^2.1.0",
-    "rsvp": "^3.1.0"
+    "rsvp": "^3.1.0",
+    "strip-json-comments": "^1.0.4"
   },
   "devDependencies": {
     "fakeredis": "^0.3.3",
